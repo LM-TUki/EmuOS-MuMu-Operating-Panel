@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src="Emu_icon.png" width="120" height="120" alt="MuMu Logo">
   <h1>MuMu Configurator</h1>
 </div>
 

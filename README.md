@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/mumu_icon.png" width="120" height="120" alt="MuMu Icon" style="border-radius: 50%;" />
+  <img src="public/Emu_icon.png" width="120" height="120" alt="MuMu Icon" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 46, 133, 0.3);" />
   <h1>MuMu Configurator</h1>
 </div>
 
@@ -28,6 +28,27 @@
 *   **拟人化系统 (Persona & Memory)**
     *   **LPMM 记忆模块**：可视化的长期记忆与知识库配置。
     *   **动态情绪引擎**：支持配置情绪波动阈值、性格状态 (States) 切换概率及文本风格微调。
+
+## 🎨 灵感与设定 (Character Inspiration)
+
+MuMu 的人格原型来自《世界计划》中的 **凤 笑梦 (Otori Emu)**。
+Wonderhoy！🍬
+
+> **凤 笑梦 (Otori Emu)**  
+> *CV: 木野 日菜*
+>
+> 性格无可救药地开朗，天真烂漫。一旦想到什么就会立刻行动，因此常常不知不觉把周围的人卷入其中。为了复兴凤凰仙境（Phoenix Wonderland）这一寂寥的舞台，正在寻找能一起登台的伙伴。
+
+| 属性 | 详细资料 |
+| :--- | :--- |
+| **生日** | 9月9日 |
+| **身高** | 152cm |
+| **学校** | 宫益坂女子学园 1-B |
+| **兴趣** | 探索邻里 (近所探検) |
+| **特长** | 杂技、吃什么都觉得好吃 |
+| **喜欢的食物** | 鲷鱼烧 |
+| **讨厌的食物** | 没有！(なし！) |
+| **不擅长** | 黄昏 |
 
 ## 🚀 快速开始
 

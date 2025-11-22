@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
-import { User, Cpu, Rocket, Sparkles, BookOpen, Moon, Sun, HeartHandshake } from 'lucide-react';
+
+import React from 'react';
+import { User, Cpu, Rocket, BookOpen, Moon, Sun, HeartHandshake, Sparkles } from 'lucide-react';
 
 interface SidebarProps {
   activeTab: string;
@@ -17,8 +18,6 @@ const TaiyakiIcon = ({ className }: { className?: string }) => (
 );
 
 export const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab, isDarkMode, toggleDarkMode }) => {
-  const [imgError, setImgError] = useState(false);
-
   const navItems = [
     { id: 'models', label: '思维核心', icon: Cpu },
     { id: 'general', label: '身份设定', icon: User },
@@ -34,16 +33,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab, isDar
         <div className="flex items-center gap-3">
           <div className="relative group cursor-pointer">
              <div className="w-12 h-12 rounded-full flex items-center justify-center bg-emu-500 shadow-md shadow-emu-300 overflow-hidden hover:scale-105 transition-transform duration-300">
-               {!imgError ? (
-                 <img 
-                    src="/Emu_icon.png" 
-                    alt="MuMu" 
-                    className="w-full h-full object-cover"
-                    onError={() => setImgError(true)}
-                 />
-               ) : (
                  <Sparkles size={24} className="text-white animate-pulse" />
-               )}
              </div>
              {/* Status Dot */}
              <div className="absolute bottom-0 right-0 w-3 h-3 bg-green-400 border-2 border-white dark:border-slate-800 rounded-full"></div>

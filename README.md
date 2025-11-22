@@ -1,3 +1,4 @@
+<img width="754" height="717" alt="image" src="https://github.com/user-attachments/assets/23828a21-faec-458d-8654-10d6768ce3e0" />
 
 <div align="center">
   <h1>MuMu Configurator</h1>

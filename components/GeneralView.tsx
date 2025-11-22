@@ -1,5 +1,6 @@
+
 import React, { useState } from 'react';
-import { BotConfig, TalkValueRule } from '../types';
+import { BotConfig, TalkValueRule } from '../data/types';
 import { Smile, Heart, Zap, Shield, AlertTriangle, MessageCircle, Clock, Book, Mic, Database, Palette, Type, Scissors, SmilePlus } from 'lucide-react';
 
 interface GeneralViewProps {

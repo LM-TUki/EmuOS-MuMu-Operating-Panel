@@ -1,6 +1,7 @@
+
 import React, { useState } from 'react';
-import { ModelDef, TaskConfig, ApiProvider } from '../types';
-import { TASK_DESCRIPTIONS, TASK_GROUPS } from '../constants';
+import { ModelDef, TaskConfig, ApiProvider } from '../data/types';
+import { TASK_DESCRIPTIONS, TASK_GROUPS } from '../data/constants';
 import { Plug, Server, Brain, ChevronDown, ChevronUp, List, Rocket, Info, ExternalLink, BookOpen, Zap } from 'lucide-react';
 
 interface ModelsViewProps {

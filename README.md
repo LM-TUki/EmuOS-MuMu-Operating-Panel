@@ -1,10 +1,11 @@
+
 # MuMu Configurator
 
 ![Version](https://img.shields.io/badge/version-6.25.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![React](https://img.shields.io/badge/react-19.0-61dafb.svg)
 
-**MuMu Configurator** 是专为 MuMu Core 设计的现代化可视化配置终端。它提供了一个直观的 Web 界面，用于管理复杂的 LLM 机器人配置、编排多模型任务流以及微调拟人化人格参数。
+**MuMu Configurator** 是专为 MuMu AI Core 设计的现代化可视化配置终端。它提供了一个直观的 Web 界面，用于管理复杂的 LLM 机器人配置、编排多模型任务流以及微调拟人化人格参数。
 
 ## 📖 项目背景
 

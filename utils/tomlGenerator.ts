@@ -1,4 +1,5 @@
-import { AppState } from '../types';
+
+import { AppState } from '../data/types';
 
 export const generateGeneralToml = (state: AppState, version: string = "6.25.0"): string => {
   const { bot } = state;

@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { Sidebar } from './components/Sidebar';
 import { GeneralView } from './components/GeneralView';
@@ -6,8 +7,8 @@ import { DeployView } from './components/DeployView';
 import { TutorialView } from './components/TutorialView';
 import { ContactView } from './components/ContactView';
 import { SplashScreen } from './components/SplashScreen';
-import { INITIAL_STATE } from './constants';
-import { AppState, BotConfig, ApiProvider, ModelDef } from './types';
+import { INITIAL_STATE } from './data/constants';
+import { AppState, BotConfig, ApiProvider, ModelDef } from './data/types';
 
 export default function App() {
   const [showSplash, setShowSplash] = useState(true);

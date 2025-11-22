@@ -1,6 +1,7 @@
+
 import React, { useState, useRef } from 'react';
-import { AppState } from '../types';
-import { INITIAL_STATE } from '../constants';
+import { AppState } from '../data/types';
+import { INITIAL_STATE } from '../data/constants';
 import { generateGeneralToml, generateModelToml } from '../utils/tomlGenerator';
 import { Copy, Check, Rocket, FolderOpen, FileText, Save, Upload, Settings, HelpCircle, AlertTriangle } from 'lucide-react';
 

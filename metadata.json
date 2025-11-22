@@ -1,0 +1,5 @@
+{
+  "name": "MuMu",
+  "description": "凤笑梦 (Mumu/Emu) AI 机器人的专用配置面板，Wonderhoy！支持人格微调、模型管理和 TOML 配置文件生成。",
+  "requestFramePermissions": []
+}

@@ -1,6 +1,6 @@
 <div align="center">
-  <<src="https://github.com/user-attachments/assets/802f6acc-d436-4302-bf39-7b377e3a7c50" alt="icon" width="150px">
-  <h1>MuMu Configurator</h1>
+<img src="https://github.com/user-attachments/assets/802f6acc-d436-4302-bf39-7b377e3a7c50" alt="icon" width="150px" hight="150px">
+<h1>MuMu Configurator</h1>
 </div>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <div align="center">
-<<img src="Emu_icon.png" width="120" height="120" alt="icon" src="https://github.com/user-attachments/assets/8c8fbf5e-4559-4919-961e-8a40f87bc451" />
+<<src="https://github.com/user-attachments/assets/8c8fbf5e-4559-4919-961e-8a40f87bc451"alt="icon" width="150px"/>
 <div align="center">
   <h1>MuMu Configurator</h1>
 </div>

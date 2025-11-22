@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hair (Back) -->
+  <path d="M20 120C20 60 60 30 100 30C140 30 180 60 180 120C180 160 160 170 100 170C40 170 20 160 20 120Z" fill="#ff2e85"/>
+  
+  <!-- Face Shape -->
+  <path d="M25 125C25 80 50 50 100 50C150 50 175 80 175 125C175 155 160 165 100 165C40 165 25 155 25 125Z" fill="#fff0f5"/>
+  
+  <!-- Bangs (Front Hair) -->
+  <path d="M22 120C22 120 40 50 80 60C95 63 105 63 120 60C160 50 178 120 178 120" stroke="#ff2e85" stroke-width="12" stroke-linecap="round" fill="none"/>
+  
+  <!-- Side Hair Details -->
+  <path d="M175 120C175 120 185 130 180 145" stroke="#ff2e85" stroke-width="6" stroke-linecap="round"/>
+  <path d="M25 120C25 120 15 130 20 145" stroke="#ff2e85" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Eyes -->
+  <ellipse cx="65" cy="120" rx="6" ry="8" fill="#8c0b3b"/>
+  <ellipse cx="135" cy="120" rx="6" ry="8" fill="#8c0b3b"/>
+  
+  <!-- Mouth (Smile) -->
+  <path d="M92 128Q100 135 108 128" stroke="#8c0b3b" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Blush -->
+  <circle cx="50" cy="130" r="8" fill="#ff94bb" fill-opacity="0.6"/>
+  <circle cx="150" cy="130" r="8" fill="#ff94bb" fill-opacity="0.6"/>
+  
+  <!-- Ahoge (Hair Stick) -->
+  <path d="M100 35Q110 10 120 25" stroke="#ff2e85" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

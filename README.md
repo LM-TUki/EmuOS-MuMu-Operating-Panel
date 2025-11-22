@@ -1,5 +1,8 @@
 
-# MuMu Configurator
+<div align="center">
+  <img src="public/mumu_icon.svg" width="120" height="120" alt="MuMu Icon" />
+  <h1>MuMu Configurator</h1>
+</div>
 
 ![Version](https://img.shields.io/badge/version-6.25.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

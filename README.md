@@ -1,3 +1,4 @@
+<div align="center">
 <h1>MuMu Configurator</h1>
 </div>
 

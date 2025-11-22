@@ -1,4 +1,4 @@
-# ✨ MuMu Configurator | 凤笑梦 AI 配置终端
+# ✨ MuMu Configurator | MuMuBot 配置终端
 
 <div align="center">
   <br/>
